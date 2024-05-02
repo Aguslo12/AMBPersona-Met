@@ -1,1 +1,1 @@
-ADM generico
+CRUD Generico de Persona
