@@ -1,0 +1,31 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "phoneNumber": 2613371319,
+      "adress": "Tapon Moyano",
+      "birthdate": "2002-12-17",
+      "email": "aguslobos.1712@gmail.com",
+      "firstName": "Agustin",
+      "lastName": "Lobos"
+    },
+    {
+      "id": 2,
+      "phoneNumber": 2613329131,
+      "adress": "Barrio El Challao",
+      "birthdate": "2008-07-10",
+      "email": "brunomastro165@gmail.com",
+      "firstName": "Bruno",
+      "lastName": "Mastropietro"
+    },
+    {
+      "id": 3,
+      "phoneNumber": 2618437382,
+      "adress": "Godoy Cruz",
+      "birthdate": "2000-07-10",
+      "email": "santimza@gmail.com",
+      "firstName": "Santiago",
+      "lastName": "Rojo"
+    }
+  ]
+}
