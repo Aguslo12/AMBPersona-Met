@@ -1,1 +1,1 @@
-DESTRUCCION DE MUNDOS
+ADM generico
